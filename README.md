@@ -5,6 +5,11 @@ Le backend est développé en Spring Boot avec PostgreSQL, et le frontend en Rea
 
 ---
 
+<img width="2479" height="1269" alt="Capture d'écran 2025-04-13 150826" src="https://github.com/user-attachments/assets/0aa6bebb-d940-4e03-9abb-6a477a0475c3" />
+
+---
+
+
 ## Fonctionnalités principales
 
 - Gestion des utilisateurs (clients, cuisiniers)  
