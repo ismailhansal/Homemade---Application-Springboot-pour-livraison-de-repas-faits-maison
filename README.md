@@ -43,8 +43,6 @@ Le backend est développé en Spring Boot avec PostgreSQL, et le frontend en Rea
 
 ---
 
-## Installation & démarrage
-
 ### Prérequis
 
 - Java 21+  
@@ -53,10 +51,3 @@ Le backend est développé en Spring Boot avec PostgreSQL, et le frontend en Rea
 - Node.js & npm ou yarn  
 
 ---
-
-### Backend
-
-1. Cloner le dépôt  
-   ```bash
-   git clone https://github.com/ton-utilisateur/homemade-delivery.git
-   cd homemade-delivery/backend
